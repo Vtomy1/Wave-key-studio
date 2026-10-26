@@ -1,0 +1,6 @@
+{
+  "name": "WaveKey Studio",
+  "description": "Real-time acoustic visualizer keyboard that synthesizes audio waveforms and visualizes live audio input and keystroke resonance as you type.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
